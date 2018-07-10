@@ -5,4 +5,5 @@ Yep.
 
 ## List of Commits
 * BT01 - Repository Start
+* BT02 and 03 - GDD + Setting Up GitHub
 
